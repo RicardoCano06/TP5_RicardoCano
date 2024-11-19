@@ -22,7 +22,7 @@ h1 {
     color: #333;
 }
 
-forms {
+form {
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -42,7 +42,7 @@ button {
     font-size: 16px;
 }
 
-buton {
+button {
     background-color: #007bff;
     color: white;
     border: none;
